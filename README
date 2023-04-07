@@ -1,0 +1,2 @@
+Both .py files will write the required output to the terminal
+They will also write to their respective Analysis.txt (if deleted they will recreate the file)
